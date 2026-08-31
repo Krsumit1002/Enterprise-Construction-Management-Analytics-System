@@ -63,6 +63,8 @@ The project includes an interactive executive dashboard built using Looker Studi
 
 The dashboard provides a consolidated view of construction operations, project performance, procurement activity, vendor spending, and financial performance.
 
+[Dashboard Preview](https://datastudio.google.com/reporting/95d7929a-27bd-4f15-a184-d799e806f208)
+
 ## 🖼️ Dashboard Preview
 
 <img width="1200" height="698" alt="image" src="https://github.com/user-attachments/assets/fe1fe78c-dd9e-480c-832e-7043f65d0313" />
