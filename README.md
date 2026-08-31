@@ -57,6 +57,15 @@ The project uses a relational construction-management dataset consisting of mult
 | `payments` | Payment transactions against invoices |
 
 ---
+# 📊 Dashboard
+
+The project includes an interactive executive dashboard built using Looker Studio.
+
+The dashboard provides a consolidated view of construction operations, project performance, procurement activity, vendor spending, and financial performance.
+
+## 🖼️ Dashboard Preview
+
+<img width="1200" height="698" alt="image" src="https://github.com/user-attachments/assets/fe1fe78c-dd9e-480c-832e-7043f65d0313" />
 
 ## 🔗 Data Model
 
